@@ -1,0 +1,20 @@
+# Vivado temporary files and log files
+*.log
+*.jou
+*.pb
+*.str
+*.dir
+*.os
+
+# Vivado simulation and synthesis directories
+/xui/
+/.Xil/
+*.sim/
+*.hw/
+*.ip_user_files/
+*.cache/
+*.runs/
+
+# Operating system files
+Thumbs.db
+.DS_Store
